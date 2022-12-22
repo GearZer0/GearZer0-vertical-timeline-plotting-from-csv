@@ -2,4 +2,4 @@
 create a vertical timeline against a csv file
 
 ## Requirement
-2 columns - timeline and event
+CSV should have 2 columns - timeline and event
