@@ -1,0 +1,20 @@
+timeline,event
+6/23/2022 0:00,Nessus scan
+6/23/2022 18:12,Possible NMAP activity
+6/23/2022 18:32,Browsed to NMAP.org/book
+6/27/2022 14:01,First log on to system001
+6/28/2022 12:07,Connection over 443
+6/28/2022 12:07,Connection over RDP (3389)
+6/28/2022 14:52,Installed Python
+6/28/2022 15:19,First instance of python  -m http.server
+6/28/2022 17:18,presence of PsExec64.exe and PsExec.exe
+6/28/2022 18:22,WinSCP/ putty (1).exe moved over SMB from NAS NAS001
+6/29/2022 18:22,Uninstalled Python
+6/30/2022 18:22,USB inserted
+6/30/2022 22:22,USB removed
+7/1/2022 22:22,test event1
+7/2/2022 22:22,test event2
+7/3/2022 22:22,test event3
+7/4/2022 22:22,test event4
+7/5/2022 22:22,test event5
+7/6/2022 22:22,test event6
