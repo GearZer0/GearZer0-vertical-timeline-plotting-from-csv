@@ -1,4 +1,4 @@
-# GearZer0-vertical-timeline-plotting-from-csv
+# vertical-timeline-plotting-from-csv
 Creates a vertical timeline against a csv file
 
 ## Requirement
