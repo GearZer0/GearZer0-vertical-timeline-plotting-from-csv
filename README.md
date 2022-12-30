@@ -1,5 +1,10 @@
 # GearZer0-vertical-timeline-plotting-from-csv
-create a vertical timeline against a csv file
+Creates a vertical timeline against a csv file
 
 ## Requirement
-CSV should have 2 columns - timeline and event
+1. CSV should must 2 columns
+- timeline
+- event
+
+## Usage
+1. python3 timeline2.py sample_timeline.csv
